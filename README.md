@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/snowded/tutu.DiscordBot/blob/main/snowwwwwbanner.png)](https://tutubot.netlify.app)
-<h1 align="center">Hi 👋, I'm snoww.</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Heyaa .. !! I'm snoww.</h1>
+<h3 align="center">A Kid Who has a Alot of passion for ui/ux && programming</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/snowded/tutu.DiscordBot/blob/main/snow.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

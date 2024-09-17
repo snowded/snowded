@@ -1,4 +1,4 @@
-[![MasterHead]https://github.com/snowded/tutu.DiscordBot/blob/main/snowwwwwbanner.png](https://rishavchanda.io)
+[![MasterHead](https://github.com/snowded/tutu.DiscordBot/blob/main/snowwwwwbanner.png)](https://tutubot.netlify.app)
 <h1 align="center">Hi 👋, I'm snoww.</h1>
 <h3 align="center">A passionate frontend developer</h3>
 

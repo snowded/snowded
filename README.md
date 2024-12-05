@@ -14,9 +14,9 @@
 — 3+ years of experience.
 
 <h1> </h1>
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=snowded&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
-</p>
+
 <h1> </h1>
 
 <h2 align="left">—— Languages and Tools </h2>
@@ -24,7 +24,6 @@
 
 
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
+© snoww. All rights reserved 2023.</p> </div>
 
 

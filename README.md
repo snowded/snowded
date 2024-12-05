@@ -8,12 +8,10 @@
 
 
 <h2>—— About Me</h2>
-- Ui/Ux Designer // Backend Developer
-- Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-◦ How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
-◦ Join my opensource community[recodehive](https://github.com/Recodehive)<br>
-◦ Ask me about SEO/Data Science.<br>
-
+— Ui/Ux Designer. <br>
+— Backend Developer. <br>
+— Dev @ https://teamkronix.tech <br>
+— 3+ years of experience.
 
 
 <h2 align="left">—— Languages and Tools </h2>

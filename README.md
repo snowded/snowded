@@ -7,9 +7,9 @@
 </p>
 
 -----------------------------------------------------------
-◦ **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-◦ Ui/Ux Designer // Backend Developer
-◦ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
+- **About Me**
+- Ui/Ux Designer // Backend Developer
+- Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 ◦ How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
 ◦ Join my opensource community[recodehive](https://github.com/Recodehive)<br>
 ◦ Ask me about SEO/Data Science.<br>
@@ -78,88 +78,6 @@ I write regular blog posts, most of which you will find on my personal website [
 
 <!--- 3rd Section on Recent Projects -->
 
-  <details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
-
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
-  <!--END_SECTION:activity-->
-  </details> 
-
-  <details>	
-    <summary><b>📈 Get my Code stats</b></summary><br>
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
-CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-gssoc-website-new        8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Socials-Winter-Of-Code   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Frontend - Copy          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Error-frontend           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Backend                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-
-💻 Operating System: 
-Windows                  20 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-
-<!--END_SECTION:waka-->
-   </details> 
 
 <!--- Footer Stats - Adding the Social Media Status count-->
  <p align="left">  

@@ -1,4 +1,4 @@
-<img src="https://github.com/snowded/tutu.DiscordBot/blob/main/snowwwwwbanner.png?raw=true">
+<img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true">
 <h1 align="center">—— Hi there, I'm <a href="https://github.com/snowded/">snoww</a> </h1>
 
 

@@ -3,8 +3,8 @@
 
 
 
- <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" width="430">
-  <br/>
+ <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" width="430">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" width="428">
+
 
 
 <h2>—— About Me</h2>
@@ -15,7 +15,6 @@
 
 <h1> </h1>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" width="428">
 
 <h1> </h1>
 

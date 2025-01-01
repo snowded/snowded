@@ -7,7 +7,7 @@
 
 
 <h2>—— About Me</h2>
-— Ui/Ux Designer. <br>
+— Network Based. <br>
 — Backend Developer. <br>
 — Dev @ https://teamkronix.tech <br>
 — 3+ years of experience.

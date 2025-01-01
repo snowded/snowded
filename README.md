@@ -13,7 +13,7 @@
 
 <h1> </h1>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowded&theme=dark&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="428">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" width="428">
 
 <h1> </h1>
 

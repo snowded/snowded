@@ -4,10 +4,6 @@
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1092374628556615690)](https://discord.com/users/1092374628556615690)
 
-<p align="center">
-  <a href="https://github.com/snowded/">Contact me.</a> 
-</p>
-
 
 <h2>—— About Me</h2>
 — Ui/Ux Designer. <br>

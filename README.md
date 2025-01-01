@@ -3,11 +3,6 @@
 
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1092374628556615690)](https://discord.com/users/1092374628556615690)
-CopyOptionsPlease provide a valid user ID!
-Lanyard Profile Readme has
-505
-total users!
-
 
 <p align="center">
   <a href="https://github.com/snowded/">Contact me.</a> 

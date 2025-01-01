@@ -2,7 +2,9 @@
 <h1 align="center">—— Hi there, I'm <a href="https://github.com/snowded/">snoww</a> </h1>
 
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1092374628556615690)](https://discord.com/users/1092374628556615690)
+
+ <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" width="430">
+  <br/>
 
 
 <h2>—— About Me</h2>

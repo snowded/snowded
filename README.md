@@ -13,7 +13,7 @@
 
 <h1> </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=snowded&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowded&theme=dark&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="428">
 
 <h1> </h1>
 

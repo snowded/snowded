@@ -3,7 +3,7 @@
 
 
 
- <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" width="430">  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" width="428">
+ <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" width="430">  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" >
  <p align="right">hi</p>
 
 

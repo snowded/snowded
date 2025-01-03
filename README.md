@@ -6,7 +6,7 @@
  <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" >  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" height="200">
 
 
-—— About Me
+—— About Me <br>
 — Network Based. <br>
 — Backend Developer. <br>
 — Dev @ https://teamkronix.tech <br>

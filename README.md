@@ -3,10 +3,10 @@
 
 
 
- <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" >  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=snowded&theme=dark&hide_border=true" height="200">
+ <img src="https://lanyard.kyrie25.dev/api/1092374628556615690" >  
 
 
-—— About Me <br>
+# —— About Me 
 — Network Based. <br>
 — Backend Developer. <br>
 — Dev @ https://teamkronix.tech <br>
@@ -60,4 +60,5 @@
 <p align="center">
 © snoww. All rights reserved 2023.</p> </div>
 
+![](https://komarev.com/ghpvc/?username=snowded&color=ff69b4)
 

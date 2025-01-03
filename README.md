@@ -12,10 +12,7 @@
 — Dev @ https://teamkronix.tech <br>
 — 3+ years of experience.
 
-<h1> </h1>
 
-
-<h1> </h1>
 
 <h2 align="left">—— Languages and Tools </h2>
 <div align="center">

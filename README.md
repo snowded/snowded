@@ -11,12 +11,6 @@
 </div>
 
 
-# —— About Me 
-— Network Based. <br>
-— Backend Developer. <br>
-— Dev @ https://teamkronix.tech <br>
-— 3+ years of experience.
-
 
 
 <h2 align="left">—— Languages and Tools </h2>
